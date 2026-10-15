@@ -1,0 +1,22 @@
+# Data (do not submit)
+data/
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Figures
+*.png
+*.pdf
+
+# Miniconda installer
+Miniconda3-*
+
+# OS
+.DS_Store
